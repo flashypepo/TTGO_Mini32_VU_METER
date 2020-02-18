@@ -1,0 +1,11 @@
+{
+    "STATIC_IP": "192.168.178.142",
+    "SUBNET" : "192.168.178.0",
+    "GATEWAY_IP": "192.168.178.1",
+    "MASKER": "255.255.255.0",
+    "SSID": "ZiggoPePo",
+    "PASSWRD" : "hGsnbaY2yfrw",
+    "DNS": "8.8.8.8",
+    "MICROPYTHON": "Micropython",
+    "IDENTITY": "TTGO-MINI32-V2.0"
+}

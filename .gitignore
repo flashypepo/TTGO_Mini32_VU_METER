@@ -1,2 +1,3 @@
-# 2020-0221 added ignore all files in config
+# 2020-0221 added ignore all files in config, ignore pymakr.conf
 config/**
+pymakr.conf
